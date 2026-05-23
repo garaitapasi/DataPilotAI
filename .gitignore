@@ -4,3 +4,5 @@ venv/
 .env
 trained_model.pkl
 report.pdf
+.streamlit/
+.idea/
