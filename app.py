@@ -33,8 +33,8 @@ st.markdown(
 
 st.title("🚀 DataPilot AI")
 st.info(
-    "💡 You can ask: `overview`, `preprocess`, `train`, `evaluation`, "
-    "`feature importance`, `next step`, or `target column is Outcome`"
+    "💡 You can ask: ` Dataset Overview`, `Preprocess`, `Train`, `Evaluate`, "
+    "`Feature Importance`, `Next step`, or `You can set target like - Target column is Outcome`"
 )
 st.subheader("Conversational Data Science Copilot")
 
